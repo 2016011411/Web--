@@ -1,0 +1,36 @@
+h1{
+	font-family: 黑体;
+	font-weight: 900; 
+	
+
+}
+h4{
+	color: #999999;
+	font-family: 宋体;
+	font-size: 12px;
+	text-align: center;
+}
+p{
+	 color: #333333;
+	font-family: 宋体;
+	font-size: 20px;
+	font-weight: bold;
+	text-indent: 2em;
+	
+}
+h3{
+	
+	font-family: 微软雅黑;
+	font-size: 20px; 
+	text-indent: 2em;
+	
+	
+
+}
+li{
+	color: rgb(0,150,255);
+	font-style: italic;
+	font-family: 宋体;
+	font-size: 18px;
+	text-align: left;
+}
