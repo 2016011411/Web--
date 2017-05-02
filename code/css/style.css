@@ -1,0 +1,18 @@
+body{
+	font-family: Arial;
+	font-size: 12px;
+	font-color: gray;
+	font-height: 2em;
+}
+a{
+	font-color: #727272;
+	text-decoration: none;
+}
+#web{
+	font-size: 14px;
+	font-color: #b9f605;
+	font-weight: bolder;
+}
+#web1{
+	font-color: white;
+}

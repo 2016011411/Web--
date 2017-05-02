@@ -1,0 +1,18 @@
+body{
+	text-indent: 2em;
+}
+h1{
+	font-family: 微软雅黑;
+	font-size: 20px;
+	font-color: #686868;
+	font-weight: normal;
+}
+h2{
+	font-family: Arial;
+	font-size: 12px;
+	font-color: #a9a8a8;
+	font-weight: normal;
+}
+#web4{
+	font-color:#22a3d3;
+}
